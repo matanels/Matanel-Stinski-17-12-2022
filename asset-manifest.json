@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Matanel-Stinski-17-12-2022/static/css/main.ca98ddf3.css",
+    "main.js": "/Matanel-Stinski-17-12-2022/static/js/main.5b666723.js",
+    "index.html": "/Matanel-Stinski-17-12-2022/index.html",
+    "main.ca98ddf3.css.map": "/Matanel-Stinski-17-12-2022/static/css/main.ca98ddf3.css.map",
+    "main.5b666723.js.map": "/Matanel-Stinski-17-12-2022/static/js/main.5b666723.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca98ddf3.css",
+    "static/js/main.5b666723.js"
+  ]
+}
